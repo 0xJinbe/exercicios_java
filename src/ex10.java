@@ -1,7 +1,5 @@
 import java.util.Locale;
 import java.util.Scanner;
-import java.util.Locale;
-
 
 public class ex10 {
 
@@ -9,7 +7,7 @@ public class ex10 {
 		Scanner sc = new Scanner(System.in);
 		Locale.setDefault(Locale.US);
 
-		double item, qnt, preco, total;
+		double item, qnt, total;
 		
 		item = sc.nextDouble();
 		qnt = sc.nextDouble();
