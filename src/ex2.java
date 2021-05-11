@@ -17,7 +17,7 @@ public class ex2 {
 		dif = (A * B - C * D);
 		System.out.println("DIFERENCA = " + dif);
 
-
+		sc.close();
 
 	}
 }

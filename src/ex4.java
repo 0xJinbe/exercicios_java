@@ -22,7 +22,7 @@ public class ex4 {
 		total = preco1 * qnt1 + preco2 * qnt2;
 		System.out.printf("VALOR A PAGAR = R$ %.2f%n", total);
 		
-		
+		sc.close();
 		
 	}
 }

@@ -17,6 +17,8 @@ public class ex3 {
 		sal = horas * valor;
 		System.out.println("NUMER = " + num);
 		System.out.printf("SALARY = %.2f%n", sal);
+		
+		sc.close();
 
 	}
 }
