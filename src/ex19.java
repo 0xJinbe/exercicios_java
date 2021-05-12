@@ -15,7 +15,7 @@ public class ex19 {
 			double val2 = sc.nextDouble();
 			double val3 = sc.nextDouble();
 			
-			double media = (val1 * 2.0 + val2 * 3.0 + val3 * 5.0) / 10.0;
+			double media = (val1 * 2.0 + val2 * 3.0 + val3 * 5.0) / 10.0; // divide pelos pesos ponderados
 			
 			System.out.println("MEDIA PONDERADA: " + media);
 		}

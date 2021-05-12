@@ -8,14 +8,12 @@ public class ex4 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		int cod1, cod2, qnt1, qnt2;
+		int qnt1, qnt2;
 		double preco1, preco2, total;
 		
-		cod1 = sc.nextInt();
 		qnt1 = sc.nextInt();
 		preco1 = sc.nextDouble();
 		
-		cod2 = sc.nextInt();
 		qnt2 = sc.nextInt();
 		preco2 = sc.nextDouble();
 		
