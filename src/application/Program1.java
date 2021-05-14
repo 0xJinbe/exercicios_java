@@ -13,7 +13,7 @@ public class Program1 {
 
 		Rectangle rect = new Rectangle();
 
-		System.out.println("Enter rectangle width and height: ");
+		System.out.println("Entre com altura e largura do triangulo: ");
 		rect.altura = sc.nextDouble();
 		rect.largura = sc.nextDouble();
 
